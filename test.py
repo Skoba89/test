@@ -7,4 +7,5 @@ with open("sites.txt", "r") as sites:
         xml_string += string
 
 print(xml_string)
+print("why")
 
