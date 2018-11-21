@@ -8,4 +8,5 @@ with open("sites.txt", "r") as sites:
 
 print("3")
 print(xml_string)
+print("why")
 
